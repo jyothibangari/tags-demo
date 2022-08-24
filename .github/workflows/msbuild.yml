@@ -3,8 +3,8 @@ name: MSBuild
 on:
   push:
     branches: [ "exclude-files" ]
-    paths: 
-      - '!**.md'
+    paths-ignore: 
+      - 'stash-demo/README.md'
   pull_request:
     branches: [ "main" ]
 
