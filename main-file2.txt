@@ -1,1 +1,2 @@
 in main file2
+changes in non-excluded file

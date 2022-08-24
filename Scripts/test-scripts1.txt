@@ -1,0 +1,2 @@
+testq1
+testing excluding files in sub-folder stash-demo/Scripts/*.txt
