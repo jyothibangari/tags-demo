@@ -39,5 +39,5 @@ jobs:
       run: msbuild /m /p:Configuration=${{env.BUILD_CONFIGURATION}} ${{env.SOLUTION_FILE_PATH}}
 
 ignore:
-  - *.md
-  - *.txt
+  - README.md
+  - main-file1.txt
