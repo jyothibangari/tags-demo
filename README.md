@@ -10,3 +10,4 @@ Testing file exclude - 24Aug2022:7:06PM IST - Failed
 Testing -failed
 Testing -failed
 Testing
+- 24Aug2022:9:58PM IST - removed dual condition pull-request and only used push
