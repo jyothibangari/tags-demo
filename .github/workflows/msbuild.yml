@@ -2,7 +2,7 @@ name: MSBuild
 
 on:
   push:
-    branches: [ "exclude-files" ]
+    branches: [ "main" ]
     paths-ignore: 
       - 'README.md'
   pull_request:
