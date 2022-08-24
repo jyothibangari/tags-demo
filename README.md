@@ -1,1 +1,1 @@
-# stash-demo
+# Sample-WebApp
