@@ -9,7 +9,7 @@ on:
     branches: [ "main" ]
 
 env:
-  # Path to the solution file relative to the root of the project.
+  # Path to the solution file relative to the root of the project. Editing
   SOLUTION_FILE_PATH: .
 
   # Configuration type to build.
