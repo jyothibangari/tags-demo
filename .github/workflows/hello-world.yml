@@ -6,11 +6,10 @@ name: hello-world-wf
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ "include-files" ]
-    paths: 
-      - '.github/workflows/**.yml'    
+    branches: [ "main" ]
+   
   #pull_request:
-    #branches: [ "include-files" ]
+    #branches: [ "main" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
