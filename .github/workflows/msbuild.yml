@@ -5,8 +5,8 @@ on:
     #branches: [ "main" ]
     tags:
       - 'v1.2'
-  pull_request:
-    branches: [ "main" ]
+  #pull_request:
+   # branches: [ "main" ]
 
 env:
   # Path to the solution file relative to the root of the project. Editing
